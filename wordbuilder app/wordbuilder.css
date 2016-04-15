@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+#container {
+  width: 100%;
+}
+h1 {
+  margin: 27px;
+  font-size: 40px;
+}
+#letters {
+  list-style-type: none;
+  margin: 10px;
+  padding: 15px;
+  font-size: 25px;
+}
+li {
+  width: 25px;
+  height: 30px;
+  margin: 5px;
+  padding: 10px 10px 10px 20px;
+  background-color: black;
+  color: white;
+  display: inline-block;;
+}
+
+#letter_box {
+  width: 25%;
+  margin: 27px;
+  padding: 10px;
+  font-size: 14px;
+  border: 2px solid black;
+  display: block;
+}
+#button {
+  width: 65px;
+  height: 35px;
+  margin: 27px;
+  padding: 5px 5px 10px 5px;
+  border-radius: 10px;
+  border: 1px solid blue;
+  background-color: white;
+  font-size: 18px;
+  display: block;
+}
